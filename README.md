@@ -23,3 +23,9 @@ Dieses Projekt wurde mit folgenden Technologien umgesetzt:
     🧑‍🎨 CSS / Tailwind (optional) – Für ein modernes Design
 
     🗂️ React Router – Für Seiten-Navigation
+
+
+
+Referenzen:
+https://github.com/Caroline-Reichart/beautiful-coding-parallax-rainbow
+https://github.com/users/Caroline-Reichart/projects/3/
