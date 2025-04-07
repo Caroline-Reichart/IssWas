@@ -1,12 +1,25 @@
-# React + Vite
+🥘 IssWas – Rezepte für leckeres Essen & Drinks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+IssWas ist eine moderne Rezept-Website für alle, die gerne kochen, mixen und genießen!
+Hier findest du eine Sammlung leckerer Gerichte und kreativer Drinks – ansprechend präsentiert und einfach umzusetzen.
+🚀 Features
 
-Currently, two official plugins are available:
+    Übersichtliche Startseite mit Rezeptvorschlägen
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Kategorisierte Rezepte (z. B. Frühstück, Hauptgericht, Dessert, Cocktails, etc.)
 
-## Expanding the ESLint configuration
+    Detailseiten mit Zutatenliste und Schritt-für-Schritt-Anleitung
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+    Suchfunktion für schnelles Finden von Rezepten
+
+    Responsives Design – optimiert für Desktop und Mobilgeräte
+
+🛠️ Technologien
+
+Dieses Projekt wurde mit folgenden Technologien umgesetzt:
+
+    ⚛️ React – Komponentenbasiertes JavaScript-Framework
+
+    🧑‍🎨 CSS / Tailwind (optional) – Für ein modernes Design
+
+    🗂️ React Router – Für Seiten-Navigation
