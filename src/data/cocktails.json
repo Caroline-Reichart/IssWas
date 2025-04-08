@@ -1,0 +1,214 @@
+{
+    "Cocktails": {
+      "Bitters": [
+        {
+          "titel": "The Valentino",
+          "zutaten": [
+            "Campari",
+            "Dry Vermouth",
+            "Orangensaft",
+            "Eiswürfel",
+            "Orangenzeste"
+          ],
+          "steps": [
+            "Alle Zutaten in ein Rührglas mit Eis geben.",
+            "Gut umrühren.",
+            "In ein gekühltes Glas abseihen.",
+            "Mit Orangenzeste garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.liquor.com/recipes/the-valentino/"
+          }
+        },
+        {
+          "titel": "Italian Gipsy",
+          "zutaten": [
+            "Campari",
+            "Tonic Water",
+            "Limette",
+            "Eiswürfel"
+          ],
+          "steps": [
+            "Eis in ein Glas füllen.",
+            "Campari und Tonic Water dazugeben.",
+            "Mit Limettenscheibe garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Longdrinkglas",
+            "link": "https://www.schweppes.de/mixen/cocktails/italian-gipsy"
+          }
+        },
+        {
+          "titel": "Americano",
+          "zutaten": [
+            "Campari",
+            "Roter Wermut",
+            "Sodawasser",
+            "Eiswürfel",
+            "Orangenscheibe"
+          ],
+          "steps": [
+            "Campari und Wermut in ein Glas mit Eis geben.",
+            "Mit Sodawasser auffüllen.",
+            "Mit einer Orangenscheibe garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Tumbler",
+            "link": "https://spirituosenworld.de/cocktails/americano"
+          }
+        }
+      ],
+      "Fruchtig": [
+        {
+          "titel": "Melon Ball",
+          "zutaten": [
+            "Wodka",
+            "Melonenlikör",
+            "Orangensaft",
+            "Eiswürfel",
+            "Melonenkugel"
+          ],
+          "steps": [
+            "Alle Zutaten in ein Shaker geben.",
+            "Kräftig schütteln.",
+            "In ein Glas mit Eis abseihen.",
+            "Mit Melonenkugel dekorieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Longdrinkglas",
+            "link": "https://dishesdelish.com/melon-ball/"
+          }
+        },
+        {
+          "titel": "African Lion",
+          "zutaten": [
+            "Weißer Rum",
+            "Maracujasaft",
+            "Orangensaft",
+            "Grenadine",
+            "Eis"
+          ],
+          "steps": [
+            "Eis ins Glas geben.",
+            "Rum und Säfte einfüllen.",
+            "Grenadine vorsichtig hineingießen.",
+            "Nicht umrühren für Farbverlauf."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.cocktailscout.de/rezepte/african-lion"
+          }
+        },
+        {
+          "titel": "Banana Boat",
+          "zutaten": [
+            "Bananenlikör",
+            "Rum",
+            "Sahne",
+            "Ananassaft",
+            "Eiswürfel"
+          ],
+          "steps": [
+            "Alle Zutaten mit Eis shaken.",
+            "In ein gekühltes Glas abseihen.",
+            "Mit Ananasscheibe garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Hurricane-Glas",
+            "link": "https://www.homebarmenu.com/recipe/banana_boat"
+          }
+        }
+      ],
+      "Sours": [
+        {
+          "titel": "Whiskey Sour",
+          "zutaten": [
+            "Whiskey",
+            "Zitronensaft",
+            "Zuckersirup",
+            "Eis",
+            "Cocktailkirsche (optional)"
+          ],
+          "steps": [
+            "Whiskey, Zitronensaft und Sirup shaken.",
+            "In ein Glas mit Eis abseihen.",
+            "Mit Kirsche garnieren, optional."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Tumbler",
+            "link": "https://www.liquor.com/recipes/whiskey-sour/"
+          }
+        },
+        {
+          "titel": "Daiquiri",
+          "zutaten": [
+            "Weißer Rum",
+            "Zitronensaft",
+            "Zuckersirup",
+            "Eis"
+          ],
+          "steps": [
+            "Alle Zutaten im Shaker mit Eis schütteln.",
+            "In gekühltes Glas abseihen."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.gutekueche.at/daiquiri-cocktail-rezept-17921"
+          }
+        },
+        {
+          "titel": "Aperol Sour",
+          "zutaten": [
+            "Aperol",
+            "Zitronensaft",
+            "Zuckersirup",
+            "Eiweiß",
+            "Eis"
+          ],
+          "steps": [
+            "Alle Zutaten ohne Eis „dry shaken“. ",
+            "Dann mit Eis kräftig shaken.",
+            "In Glas abseihen."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.einfachkochen.de/rezepte/aperol-sour-original-rezept"
+          }
+        }
+      ],
+      "Special": [
+        {
+          "titel": "Schönheitscocktail mit Gurke",
+          "zutaten": [
+            "Gurkensaft",
+            "Mineralwasser",
+            "Limettensaft",
+            "Minze",
+            "Eiswürfel"
+          ],
+          "steps": [
+            "Gurkensaft und Limettensaft vermengen.",
+            "In Glas mit Eis geben.",
+            "Mit Mineralwasser auffüllen.",
+            "Mit Minzblättern garnieren."
+          ],
+          "informations": {
+            "alkoholisch": false,
+            "glas": "Highballglas",
+            "link": "https://iccinnamon.com/the-best-cucumber-cocktail-recipe-for-your-guinea-pig/"
+          }
+        }
+      ]
+    }
+  }
+  

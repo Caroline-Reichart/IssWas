@@ -1,0 +1,66 @@
+{
+    "Mittagessen": [
+      {
+        "titel": "Cowboy-Kartoffeln",
+        "zutaten": [
+          "Kartoffeln",
+          "Paprikaschoten",
+          "Zwiebeln",
+          "Speck oder vegetarische Alternative",
+          "Öl",
+          "Paprikapulver",
+          "Salz",
+          "Pfeffer",
+          "Kräuter (z.B. Petersilie)"
+        ],
+        "steps": [
+          "Kartoffeln schälen und in Würfel schneiden.",
+          "Paprika und Zwiebeln putzen und ebenfalls würfeln.",
+          "Speck in Streifen schneiden.",
+          "Öl in einer Pfanne erhitzen und die Kartoffeln anbraten.",
+          "Paprika, Zwiebeln und Speck hinzufügen und mitbraten.",
+          "Mit Paprikapulver, Salz und Pfeffer würzen.",
+          "Alles unter gelegentlichem Rühren goldbraun braten.",
+          "Mit frischen Kräutern bestreuen und servieren."
+        ],
+        "informations": {
+          "portionen": 2,
+          "zubereitungszeit": "30 Minuten",
+          "schwierigkeit": "mittel",
+          "link": "https://www.chefkoch.de/rezepte/110771046437101/Cowboy-Kartoffeln.html"
+        }
+      },
+      {
+        "titel": "Vollkornspaghetti mit Avocado-Feta-Creme",
+        "zutaten": [
+          "Vollkornspaghetti",
+          "Reife Avocados",
+          "Feta-Käse",
+          "Knoblauchzehe",
+          "Zitronensaft",
+          "Olivenöl",
+          "Cherrytomaten",
+          "Pinienkerne",
+          "Frische Kräuter",
+          "Salz",
+          "Pfeffer",
+          "Chiliflocken (optional)"
+        ],
+        "steps": [
+          "Spaghetti al dente kochen.",
+          "Avocados, Feta, Knoblauch, Zitronensaft und Olivenöl zu einer Creme pürieren.",
+          "Tomaten halbieren, Pinienkerne rösten.",
+          "Spaghetti mit der Creme vermengen.",
+          "Tomaten und Pinienkerne untermischen.",
+          "Mit Kräutern garnieren und servieren."
+        ],
+        "informations": {
+          "portionen": 2,
+          "zubereitungszeit": "25 Minuten",
+          "schwierigkeit": "einfach",
+          "link": "https://www.chefkoch.de/rezepte/3059251458539904/Vollkornspaghetti-mit-fruehlingshafter-Avocado-Feta-Creme.html"
+        }
+      }
+    ]
+  }
+  

@@ -1,0 +1,92 @@
+{
+    "Abendessen": [
+      {
+        "titel": "Rote Linsen-Curry mit Süßkartoffeln",
+        "zutaten": [
+          "Rote Linsen",
+          "Süßkartoffeln",
+          "Kokosmilch",
+          "Zwiebel",
+          "Knoblauch",
+          "Ingwer",
+          "Currypulver",
+          "Gemüsebrühe",
+          "Spinat",
+          "Salz",
+          "Pfeffer",
+          "Öl"
+        ],
+        "steps": [
+          "Zwiebel, Knoblauch und Ingwer fein hacken.",
+          "Süßkartoffel schälen und würfeln.",
+          "Öl in einem Topf erhitzen und Zwiebel, Knoblauch und Ingwer darin anbraten.",
+          "Currypulver hinzufügen und kurz mitrösten.",
+          "Linsen und Süßkartoffeln zugeben, mit Brühe und Kokosmilch ablöschen.",
+          "Ca. 15 Minuten köcheln lassen.",
+          "Spinat unterheben, bis er zusammenfällt.",
+          "Mit Salz und Pfeffer abschmecken."
+        ],
+        "informations": {
+          "portionen": 4,
+          "zubereitungszeit": "30 Minuten",
+          "schwierigkeit": "einfach",
+          "link": "https://www.chefkoch.de/magazin/artikel/3390,0/Chefkoch/Gesunde-Rezepte-fuer-jeden-Tag.html#recipe-slider-12665_20"
+        }
+      },
+      {
+        "titel": "Zucchini-Lasagne",
+        "zutaten": [
+          "Zucchini",
+          "Tomaten",
+          "Mozzarella",
+          "Knoblauch",
+          "Basilikum",
+          "Olivenöl",
+          "Parmesan",
+          "Salz",
+          "Pfeffer"
+        ],
+        "steps": [
+          "Zucchini in Scheiben schneiden und salzen.",
+          "Tomaten würfeln, Knoblauch fein hacken, alles in Öl anbraten.",
+          "Mit Salz, Pfeffer, Basilikum würzen.",
+          "Zucchinischeiben und Tomatensauce schichten, mit Mozzarella und Parmesan bedecken.",
+          "Im Ofen bei 180°C ca. 25 Minuten backen."
+        ],
+        "informations": {
+          "portionen": 2,
+          "zubereitungszeit": "35 Minuten",
+          "schwierigkeit": "mittel",
+          "link": "https://www.chefkoch.de/magazin/artikel/3390,0/Chefkoch/Gesunde-Rezepte-fuer-jeden-Tag.html#recipe-slider-12665_3"
+        }
+      },
+      {
+        "titel": "Quinoa-Salat mit Avocado",
+        "zutaten": [
+          "Quinoa",
+          "Avocado",
+          "Tomaten",
+          "Gurke",
+          "Frühlingszwiebeln",
+          "Zitrone",
+          "Olivenöl",
+          "Petersilie",
+          "Salz",
+          "Pfeffer"
+        ],
+        "steps": [
+          "Quinoa kochen und abkühlen lassen.",
+          "Gemüse klein schneiden, Avocado würfeln.",
+          "Zitronensaft, Öl, Salz, Pfeffer verrühren.",
+          "Alles vermengen und mit Petersilie bestreuen."
+        ],
+        "informations": {
+          "portionen": 2,
+          "zubereitungszeit": "20 Minuten",
+          "schwierigkeit": "einfach",
+          "link": "https://www.chefkoch.de/magazin/artikel/3390,0/Chefkoch/Gesunde-Rezepte-fuer-jeden-Tag.html#recipe-slider-12665_5"
+        }
+      }
+    ]
+  }
+  
