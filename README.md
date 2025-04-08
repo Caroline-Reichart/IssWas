@@ -20,7 +20,7 @@ Dieses Projekt wurde mit folgenden Technologien umgesetzt:
 
     ⚛️ React – Komponentenbasiertes JavaScript-Framework
 
-    🧑‍🎨 CSS / Tailwind (optional) – Für ein modernes Design
+    🧑‍🎨 CSS / Tailwind – Für ein modernes Design
 
     🗂️ React Router – Für Seiten-Navigation
 
