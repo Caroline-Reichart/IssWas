@@ -3,7 +3,7 @@ import React from "react";
 export const Navbar = ()=>{
     return(
         <header>
-	        <nav class="navbar navbar-expand-lg fixed-top navbarScroll navbar-dark">
+	        <nav class="navbar navbar-expand-lg fixed-top navbarScroll navbar-dark" style={{backgroundColor: "#000000"}}>
                 <div class="container">
   	            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
