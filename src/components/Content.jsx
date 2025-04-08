@@ -2,8 +2,8 @@ export const Content = () => {
     return (
         <main>
             <section id="portfolio">
-    <h1 className="name-h1">Beautiful Coding</h1>
-  <h1 className="webdev"><span>Web&shydevelopment</span></h1>
+    <h1 className="name-h1">IssWas</h1>
+  <h1 className="webdev"><span>leckere Rezepte</span></h1>
 </section>
 
 <section id="press">
