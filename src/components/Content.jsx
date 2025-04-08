@@ -9,25 +9,29 @@ export const Content = () => {
 <section id="press">
     <div className="about-me-container">
       <p className="welcome">
-        Herzlich willkommen bei Beautiful Coding Ihrer ersten Adresse für professionelle Webentwicklung und maßgeschneiderte digitale Lösungen.
+      Hey! Schön, dass du den Weg zu IssWas gefunden hast!
     </p>
     <p className="text-p">
-        Bei Beautiful Coding dreht sich alles um Perfektion und Ästhetik im Code. Ich glaube fest daran, dass großartige Webanwendungen nicht nur funktional, sondern auch schön und intuitiv sein sollten. Mein Ziel ist es, Ihre Visionen in beeindruckende und effiziente digitale Lösungen zu verwandeln, die Ihre Nutzer begeistern und Ihre Geschäftsziele unterstützen.
+      Wir sind Andre und Caro – zwei kreative Köpfe mit einer großen Leidenschaft für gutes Essen, leckere Drinks und modernes Webdesign.
     </p>
     <p className="text-p">
-        Ob Sie eine komplett neue Webseite, eine benutzerfreundliche Webanwendung oder eine Optimierung bestehender Systeme benötigen, bei Beautiful Coding sind Sie genau richtig. Lassen Sie uns gemeinsam etwas Außergewöhnliches schaffen.
+    Wir studieren beide Webentwicklung bei DCI (Digital Career Institute) und haben dieses Projekt im Rahmen unserer Ausbildung ins Leben gerufen.
+    Unser Ziel: Eine Website zu gestalten, die nicht nur optisch Appetit macht, sondern dir auch einfach und übersichtlich tolle Rezepte liefert – für jede Gelegenheit und jedes Level in der Küche.
     </p>
     <h2 className="about-me">über mich</h2>
     <p class="text-p">
-        Mein Name ist Caroline Reichart, ich bin angehender Fullstack Entwickler mit einer Leidenschaft für Webentwicklung und Technologie. Derzeit absolviere ich ein Remotestudium zum Webentwickler, um meine Kenntnisse und Fähigkeiten weiter zu vertiefen und mich auf eine spannende Zukunft in der Welt der Softwareentwicklung vorzubereiten.
+    IssWas soll ein Ort sein, an dem du Inspiration findest, neue Lieblingsgerichte entdeckst und vielleicht sogar selbst Lust bekommst, kreativ zu werden. Egal ob schneller Snack, herzhafter Klassiker oder ausgefallener Cocktail – hier ist für jeden Geschmack etwas dabei.
     </p>
 
     <p class="text-p">
-        Zuvor habe ich mehrere Jahre in der IT-Betreuung für die Bundesagentur für Arbeit und Amazon gearbeitet. In dieser Zeit konnte ich wertvolle Erfahrungen in der technischen Unterstützung und Problemlösung sammeln. Diese Tätigkeit hat mir gezeigt, wie wichtig es ist, Benutzerbedürfnisse zu verstehen und effiziente, benutzerfreundliche Lösungen anzubieten.
+    Wir freuen uns, dieses Projekt gemeinsam umzusetzen und ständig weiterzuentwickeln.
+    Wenn du Feedback hast oder eigene Ideen einbringen möchtest – schreib uns gern!
     </p> 
     
     <p class="text-p">
-        Meine Vision ist es, als Fullstack Entwickler innovative und funktionale Webanwendungen zu entwickeln, die den Anforderungen meiner Kunden gerecht werden. Mit meiner Kombination aus theoretischem Wissen und praktischer Erfahrung bin ich gut gerüstet, um komplexe Projekte von der Konzeption bis zur Umsetzung zu begleiten.
+    Viel Spaß beim Stöbern, Kochen und Genießen!
+
+    Andre & Caro 🍽️✨
     </p>
   </div>
 </section>
