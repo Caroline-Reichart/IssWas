@@ -181,6 +181,10 @@ section {
 	padding-right: 170px;
 	padding-bottom: 50px; */
 }
+.about-me-container{
+  margin-top: 50px;
+  margin-left: 50px;
+}
 
 .more-info{
 	font-family: "Poppins", sans-serif;
