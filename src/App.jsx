@@ -1,12 +1,12 @@
-
-import './App.css'
+import {Navbar} from './components/Navbar';
+// import './App.css'
 
 function App() {
   return (
     <div className="body-container">
       <Navbar />
-      <Content />
-      <Footer />
+      {/* <Content />
+      <Footer /> */}
     </div>
   )
 }
