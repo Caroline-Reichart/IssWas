@@ -3,6 +3,7 @@ export const Content = () => {
         <main>
             <section id="portfolio">
     <h1 className="name-h1">IssWas</h1>
+                
   <h1 className="webdev"><span>leckere Rezepte</span></h1>
 </section>
 

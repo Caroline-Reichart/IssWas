@@ -143,18 +143,18 @@ section {
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;
-    text-decoration: underline;
-    color: var(--text-color);
-    text-shadow: 3px 3px var(--primary-color);
+    text-decoration: none;
+    color: teal;
+    text-shadow: 3px 3px bisque;
     font-size: 100px;
-    padding-right: 100px; 
+    padding-right: 150px; 
 }
 
 .webdev{
-    font-family: "Poppins", sans-serif;
-    color: var(--text-color);
-    text-shadow: 3px 3px var(--primary-color);
-    font-size: 50px;
+  font-family: "Poppins", sans-serif;
+  color: black;
+  text-shadow: 3px 3px bisque;
+  font-size: 50px;
 	padding-bottom: 50px;
 	padding-right: 150px; 
 }
