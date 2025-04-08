@@ -19,7 +19,7 @@ export const Content = () => {
     Wir studieren beide Webentwicklung bei DCI (Digital Career Institute) und haben dieses Projekt im Rahmen unserer Ausbildung ins Leben gerufen.
     Unser Ziel: Eine Website zu gestalten, die nicht nur optisch Appetit macht, sondern dir auch einfach und übersichtlich tolle Rezepte liefert – für jede Gelegenheit und jedes Level in der Küche.
     </p>
-    <h2 className="about-me">über mich</h2>
+    {/* <h2 className="about-me"></h2> */}
     <p class="text-p">
     IssWas soll ein Ort sein, an dem du Inspiration findest, neue Lieblingsgerichte entdeckst und vielleicht sogar selbst Lust bekommst, kreativ zu werden. Egal ob schneller Snack, herzhafter Klassiker oder ausgefallener Cocktail – hier ist für jeden Geschmack etwas dabei.
     </p>
