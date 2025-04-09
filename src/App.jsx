@@ -1,5 +1,6 @@
 import {Navbar} from './components/Navbar';
 import {Content} from './components/Content';
+import {Footer} from './components/Footer';
 // import './App.css'
 
 function App() {
@@ -7,7 +8,7 @@ function App() {
     <div className="body-container">
       <Navbar />
       <Content />
-      {/* <Footer /> */}
+      <Footer /> 
     </div>
   )
 }
