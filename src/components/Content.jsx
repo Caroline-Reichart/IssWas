@@ -45,28 +45,32 @@ export const Content = () => {
               <p className="card-p">
                 Entdecke leckere Frühstücksrezepte, die dir den perfekten Start in den Tag ermöglichen.
               </p>
-              <Link to="/Fruehstueck">Rezepte ansehen</Link>
+              <img src="../src/assets/frühstück.jpg" alt="" />
+              <Link to="/Fruehstueck" className="card-link" >Rezepte ansehen</Link>
             </div>
             <div className="card card2">
               <h3>Mittag</h3>
               <p className="card-p">
                 Genieße köstliche Mittagsgerichte, die dich durch den Tag bringen.
               </p>
-              <Link to="/Mittag">Rezepte ansehen</Link>
+              <img src="../src/assets/mittag.jpg" alt="" />
+              <Link to="/Mittag" className="card-link" >Rezepte ansehen</Link>
             </div>
             <div className="card card3">
               <h3>Abendessen</h3>
               <p className="card-p">
                 Finde inspirierende Abendessen-Ideen für einen gelungenen Tagesabschluss.
               </p>
-              <Link to="/Abend">Rezepte ansehen</Link>
+              <img src="../src/assets/abendessen.jpg" alt="" />
+              <Link to="/Abend" className="card-link" >Rezepte ansehen</Link>
             </div>
             <div className="card card4">
               <h3>Cocktails</h3>
               <p className="card-p">
                 Entdecke kreative Cocktailrezepte für jeden Anlass.
               </p>
-              <Link to="/Cocktails">Rezepte ansehen</Link>
+              <img src="../src/assets/cocktails.jpg" alt="" />
+              <Link to="/Cocktails" className="card-link" >Rezepte ansehen</Link>
             </div>
           </div>
         </section>
