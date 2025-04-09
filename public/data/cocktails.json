@@ -1,6 +1,5 @@
 {
-    "Cocktails": {
-      "Bitters": [
+      "Cocktails": [
         {
           "titel": "The Valentino",
           "zutaten": [
@@ -60,9 +59,7 @@
             "glas": "Tumbler",
             "link": "https://spirituosenworld.de/cocktails/americano"
           }
-        }
-      ],
-      "Fruchtig": [
+        },
         {
           "titel": "Melon Ball",
           "zutaten": [
@@ -124,9 +121,7 @@
             "glas": "Hurricane-Glas",
             "link": "https://www.homebarmenu.com/recipe/banana_boat"
           }
-        }
-      ],
-      "Sours": [
+        },
         {
           "titel": "Whiskey Sour",
           "zutaten": [
@@ -184,9 +179,7 @@
             "glas": "Cocktailglas",
             "link": "https://www.einfachkochen.de/rezepte/aperol-sour-original-rezept"
           }
-        }
-      ],
-      "Special": [
+        },     
         {
           "titel": "Schönheitscocktail mit Gurke",
           "zutaten": [
@@ -210,5 +203,5 @@
         }
       ]
     }
-  }
+  
   

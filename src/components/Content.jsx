@@ -14,23 +14,23 @@ export const Content = () => {
     Hey! Schön, dass du den Weg zu IssWas gefunden hast!
   </p>
   <p className="text-p">
-    Wir sind Andre und Caro – zwei kreative Köpfe mit einer großen Leidenschaft für gutes Essen, leckere Drinks und modernes Webdesign.
+    Wir sind Andre und Caro, zwei kreative Köpfe mit einer großen Leidenschaft für gutes Essen, leckere Drinks und modernes Webdesign.
   </p>
   <p className="text-p">
   Wir studieren beide Webentwicklung bei DCI (Digital Career Institute) und haben dieses Projekt im Rahmen unserer Ausbildung ins Leben gerufen.
-  Unser Ziel: Eine Website zu gestalten, die nicht nur optisch Appetit macht, sondern dir auch einfach und übersichtlich tolle Rezepte liefert – für jede Gelegenheit und jedes Level in der Küche.
+  Unser Ziel: Eine Website zu gestalten, die nicht nur optisch Appetit macht, sondern dir auch einfach und übersichtlich tolle Rezepte liefert, für jede Gelegenheit und jedes Level in der Küche.
   </p>
   {/* <h2 className="about-me"></h2> */}
   <p class="text-p">
-  IssWas soll ein Ort sein, an dem du Inspiration findest, neue Lieblingsgerichte entdeckst und vielleicht sogar selbst Lust bekommst, kreativ zu werden. Egal ob schneller Snack, herzhafter Klassiker oder ausgefallener Cocktail – hier ist für jeden Geschmack etwas dabei.
+  IssWas soll ein Ort sein, an dem du Inspiration findest, neue Lieblingsgerichte entdeckst und vielleicht sogar selbst Lust bekommst, kreativ zu werden. Egal ob schneller Snack, herzhafter Klassiker oder ausgefallener Cocktail hier ist für jeden Geschmack etwas dabei.
   </p>
 
-  <p class="text-p">
+  <p className="text-p">
   Wir freuen uns, dieses Projekt gemeinsam umzusetzen und ständig weiterzuentwickeln.
-  Wenn du Feedback hast oder eigene Ideen einbringen möchtest – schreib uns gern!
+  Wenn du Feedback hast oder eigene Ideen einbringen möchtest, schreib uns gern!
   </p> 
   
-  <p class="text-p">
+  <p className="text-p">
   Viel Spaß beim Stöbern, Kochen und Genießen!
 
   Andre & Caro 🍽️✨
