@@ -15,19 +15,19 @@ export const Navbar = ()=>{
         	            <a class="nav-link" href="#">home</a>
                      </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#about">wer wir sind</a>
+                        <   a class="nav-link" href="#press">wer wir sind</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#food">food</a>
+                        <a class="nav-link" href="#recipes">food</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#snacks">snacks</a>
+                        <a class="nav-link" href="#recipes">snacks</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#cocktails">cocktails</a>
+                        <a class="nav-link" href="#recipes">cocktails</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#smoothies">smoothies</a>
+                        <a class="nav-link" href="#recipes">smoothies</a>
                     </li>
                  </ul>
                 </div>

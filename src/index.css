@@ -9,6 +9,10 @@
     --secondary-text-color:#4b4d49;
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 *{
     margin: 0;
     padding: 0;
