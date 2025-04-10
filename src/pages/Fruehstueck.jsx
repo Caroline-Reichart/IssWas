@@ -44,6 +44,7 @@ const Fruehstueck = () => {
       {recipes.map((recipe, index) => (
         <div key={index} style={{ borderBottom: "1px solid #ccc", marginBottom: "2rem", marginTop: "100px" }}>
           <h2>{recipe.titel}</h2>
+          <img src={recipe.informations.picture} alt="Nice Picture with Food" />
           <p><strong>Zubereitungszeit:</strong> {recipe.informations.zubereitungszeit}</p>
           <p><strong>Portionen:</strong> {recipe.informations.portionen}</p>
           <p><strong>Schwierigkeit:</strong> {recipe.informations.schwierigkeit}</p>

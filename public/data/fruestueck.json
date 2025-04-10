@@ -20,7 +20,8 @@
           "portionen": 1,
           "zubereitungszeit": "5 Minuten",
           "schwierigkeit": "einfach",
-          "link": "https://www.chefkoch.de/rezepte/2558231400394191/Gesundes-Single-Fruehstueck.html"
+          "link": "https://www.chefkoch.de/rezepte/2558231400394191/Gesundes-Single-Fruehstueck.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/2558231400394191/bilder/713773/crop-642x428/gesundes-single-fruehstueck.jpg"
         }
       },
       {
@@ -48,7 +49,8 @@
           "portionen": 2,
           "zubereitungszeit": "35 Minuten",
           "schwierigkeit": "einfach",
-          "link": "https://www.chefkoch.de/rezepte/2873501439634384/Baked-Oatmeal-mit-Banane.html"
+          "link": "https://www.chefkoch.de/rezepte/2873501439634384/Baked-Oatmeal-mit-Banane.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/2873501439634384/bilder/1176690/crop-642x428/baked-oatmeal-mit-banane.jpg"
         }
       },
       {
@@ -76,7 +78,8 @@
           "portionen": 4,
           "zubereitungszeit": "20 Minuten",
           "schwierigkeit": "einfach",
-          "link": "https://www.chefkoch.de/rezepte/1205621226313744/Amerikanische-Pancakes.html"
+          "link": "https://www.chefkoch.de/rezepte/1205621226313744/Amerikanische-Pancakes.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/1205621226313744/bilder/1508311/crop-642x428/amerikanische-pancakes.jpg"
         }
       },
       {
@@ -100,7 +103,8 @@
           "portionen": 1,
           "zubereitungszeit": "10 Minuten + Kühlzeit über Nacht",
           "schwierigkeit": "einfach",
-          "link": "https://www.chefkoch.de/rezepte/2520301395225657/Grundrezept-fuer-Overnight-Oats.html"
+          "link": "https://www.chefkoch.de/rezepte/2520301395225657/Grundrezept-fuer-Overnight-Oats.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/2520301395225657/bilder/1513048/crop-642x428/grundrezept-fuer-overnight-oats.jpg"
         }
       },
       {
@@ -127,7 +131,8 @@
           "portionen": 1,
           "zubereitungszeit": "15 Minuten",
           "schwierigkeit": "einfach",
-          "link": "https://www.essen-ohne-kohlenhydrate.info/rezepte/omelette-mit-ziegenkaese/"
+          "link": "https://www.essen-ohne-kohlenhydrate.info/rezepte/omelette-mit-ziegenkaese/",
+          "picture": "https://www.essen-ohne-kohlenhydrate.info/wp-content/uploads/2018/02/Ziegenk%C3%A4seomelette_Artikelbild.jpg"
         }
       }
     ]

@@ -55,6 +55,7 @@ const Cocktails = () => {
             ))}
           </ul>
           <h3>Zubereitung</h3>
+          <img src={recipe.informations.picture} alt="Nice Picture with Cocktail" />
           <ol>
             {recipe.steps.map((step, i) => (
               <li key={i}>{step}</li>
