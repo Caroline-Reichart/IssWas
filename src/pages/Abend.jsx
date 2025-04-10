@@ -37,7 +37,7 @@ const Abend = () => {
   }, []);
 
   return (
-    <div style={{ padding: "2rem" }}>
+    <div className="resultDiv" style={{ padding: "2rem" }}>
       <h1>Rezepte für den Abend</h1>
       {recipes.map((recipe, index) => (
         <div key={index} style={{ borderBottom: "1px solid #ccc", marginBottom: "2rem", marginTop: "100px"}}>
