@@ -21,7 +21,7 @@ export const Content = () => {
   Unser Ziel: Eine Website zu gestalten, die nicht nur optisch Appetit macht, sondern dir auch einfach und übersichtlich tolle Rezepte liefert, für jede Gelegenheit und jedes Level in der Küche.
   </p>
   {/* <h2 className="about-me"></h2> */}
-  <p class="text-p">
+  <p className="text-p">
   IssWas soll ein Ort sein, an dem du Inspiration findest, neue Lieblingsgerichte entdeckst und vielleicht sogar selbst Lust bekommst, kreativ zu werden. Egal ob schneller Snack, herzhafter Klassiker oder ausgefallener Cocktail hier ist für jeden Geschmack etwas dabei.
   </p>
 
@@ -45,7 +45,7 @@ export const Content = () => {
         <p className="card-p">
         Entdecke leckere Frühstücksrezepte, die dir den perfekten Start in den Tag ermöglichen.
         </p>
-        <img src="../src/assets/frühstück.jpg" alt="" />
+        <img src="/assets/frühstück.jpg" alt="" />
         <Link to="/Fruehstueck" className="card-link" target="_blank">Rezepte ansehen</Link>
       </div>
       <div className="card card2">
@@ -53,7 +53,7 @@ export const Content = () => {
         <p className="card-p">
         Genieße köstliche Mittagsgerichte, die dich durch den Tag bringen.
         </p>
-        <img src="../src/assets/mittag.jpg" alt="" />
+        <img src="/assets/mittag.jpg" alt="" />
         <Link to="/Mittag" className="card-link" target="_blank">Rezepte ansehen</Link>
       </div>
       <div className="card card3">
@@ -61,7 +61,7 @@ export const Content = () => {
         <p className="card-p">
         Finde inspirierende Abendessen-Ideen für einen gelungenen Tagesabschluss.
         </p>
-        <img src="../src/assets/abendessen.jpg" alt="" />
+        <img src="/assets/abendessen.jpg" alt="" />
         <Link to="/Abend" className="card-link" target="_blank">Rezepte ansehen</Link>
       </div>
       <div className="card card4">
@@ -69,7 +69,7 @@ export const Content = () => {
         <p className="card-p">
         Entdecke kreative Cocktailrezepte für jeden Anlass.
         </p>
-        <img src="../src/assets/cocktails.jpg" alt="" />
+        <img src="/assets/cocktails.jpg" alt="" />
         <Link to="/Cocktails" className="card-link" target="_blank">Rezepte ansehen</Link>
       </div>
       </div>
