@@ -1,0 +1,140 @@
+{
+    "Frühstück": [
+      {
+        "titel": "Gesundes Single Frühstück",
+        "zutaten": [
+          "Haferflocken",
+          "Milch oder Joghurt",
+          "Frisches Obst (z.B. Beeren, Apfelstücke)",
+          "Nüsse oder Samen",
+          "Honig oder Ahornsirup (optional)"
+        ],
+        "steps": [
+          "Haferflocken in eine Schüssel geben.",
+          "Milch oder Joghurt hinzufügen und gut vermengen.",
+          "Frisches Obst klein schneiden und dazugeben.",
+          "Nüsse oder Samen darüber streuen.",
+          "Nach Geschmack mit Honig oder Ahornsirup süßen."
+        ],
+        "informations": {
+          "portionen": 1,
+          "zubereitungszeit": "5 Minuten",
+          "schwierigkeit": "einfach",
+          "link": "https://www.chefkoch.de/rezepte/2558231400394191/Gesundes-Single-Fruehstueck.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/2558231400394191/bilder/713773/crop-642x428/gesundes-single-fruehstueck.jpg"
+        }
+      },
+      {
+        "titel": "Baked Oatmeal mit Banane",
+        "zutaten": [
+          "Haferflocken",
+          "Reife Bananen",
+          "Milch",
+          "Ei",
+          "Backpulver",
+          "Zimt",
+          "Honig oder Ahornsirup",
+          "Vanilleextrakt",
+          "Prise Salz",
+          "Nüsse oder Schokoladenstückchen (optional)"
+        ],
+        "steps": [
+          "Backofen auf 180°C vorheizen und eine Backform einfetten.",
+          "Bananen zerdrücken und mit Milch, Ei, Honig und Vanilleextrakt vermengen.",
+          "Haferflocken, Backpulver, Zimt und Salz hinzufügen und gut verrühren.",
+          "Optional Nüsse oder Schokoladenstückchen unterheben.",
+          "Masse in die vorbereitete Form füllen und ca. 25-30 Minuten backen, bis die Oberfläche goldbraun ist."
+        ],
+        "informations": {
+          "portionen": 2,
+          "zubereitungszeit": "35 Minuten",
+          "schwierigkeit": "einfach",
+          "link": "https://www.chefkoch.de/rezepte/2873501439634384/Baked-Oatmeal-mit-Banane.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/2873501439634384/bilder/1176690/crop-642x428/baked-oatmeal-mit-banane.jpg"
+        }
+      },
+      {
+        "titel": "Amerikanische Pancakes",
+        "zutaten": [
+          "Mehl",
+          "Backpulver",
+          "Zucker",
+          "Salz",
+          "Milch",
+          "Ei",
+          "Butter",
+          "Vanillezucker",
+          "Öl oder Butter zum Ausbacken"
+        ],
+        "steps": [
+          "Mehl, Backpulver, Zucker, Vanillezucker und Salz in einer Schüssel vermengen.",
+          "Milch, Ei und geschmolzene Butter hinzufügen und zu einem glatten Teig verrühren.",
+          "Eine Pfanne erhitzen und etwas Öl oder Butter hineingeben.",
+          "Portionen des Teigs in die Pfanne geben und bei mittlerer Hitze backen, bis Blasen auf der Oberfläche erscheinen.",
+          "Pancakes wenden und auf der anderen Seite goldbraun backen.",
+          "Mit Ahornsirup, frischem Obst oder anderen Toppings servieren."
+        ],
+        "informations": {
+          "portionen": 4,
+          "zubereitungszeit": "20 Minuten",
+          "schwierigkeit": "einfach",
+          "link": "https://www.chefkoch.de/rezepte/1205621226313744/Amerikanische-Pancakes.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/1205621226313744/bilder/1508311/crop-642x428/amerikanische-pancakes.jpg"
+        }
+      },
+      {
+        "titel": "Grundrezept für Overnight Oats",
+        "zutaten": [
+          "Haferflocken",
+          "Milch oder pflanzliche Alternative",
+          "Joghurt",
+          "Chiasamen",
+          "Honig oder Ahornsirup",
+          "Frisches Obst",
+          "Nüsse oder Samen"
+        ],
+        "steps": [
+          "Haferflocken, Chiasamen, Milch und Joghurt in einer Schüssel vermengen.",
+          "Mit Honig oder Ahornsirup süßen und gut umrühren.",
+          "Mischung in ein verschließbares Glas füllen und über Nacht im Kühlschrank quellen lassen.",
+          "Am Morgen mit frischem Obst und Nüssen oder Samen garnieren."
+        ],
+        "informations": {
+          "portionen": 1,
+          "zubereitungszeit": "10 Minuten + Kühlzeit über Nacht",
+          "schwierigkeit": "einfach",
+          "link": "https://www.chefkoch.de/rezepte/2520301395225657/Grundrezept-fuer-Overnight-Oats.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/2520301395225657/bilder/1513048/crop-642x428/grundrezept-fuer-overnight-oats.jpg"
+        }
+      },
+      {
+        "titel": "Omelette mit Ziegenkäse",
+        "zutaten": [
+          "Eier",
+          "Milch",
+          "Ziegenkäse",
+          "Frische Kräuter (z.B. Schnittlauch, Petersilie)",
+          "Salz",
+          "Pfeffer",
+          "Butter oder Öl zum Braten"
+        ],
+        "steps": [
+          "Eier mit Milch verquirlen und mit Salz und Pfeffer würzen.",
+          "Kräuter fein hacken und unter die Eimasse mischen.",
+          "Eine Pfanne erhitzen und Butter oder Öl hinzufügen.",
+          "Eimasse in die Pfanne geben und bei mittlerer Hitze stocken lassen.",
+          "Ziegenkäse in Scheiben schneiden und auf eine Hälfte des Omeletts legen.",
+          "Omelett zusammenklappen und kurz weitergaren, bis der Käse leicht schmilzt.",
+          "Auf einem Teller anrichten und servieren."
+        ],
+        "informations": {
+          "portionen": 1,
+          "zubereitungszeit": "15 Minuten",
+          "schwierigkeit": "einfach",
+          "link": "https://www.essen-ohne-kohlenhydrate.info/rezepte/omelette-mit-ziegenkaese/",
+          "picture": "https://www.essen-ohne-kohlenhydrate.info/wp-content/uploads/2018/02/Ziegenk%C3%A4seomelette_Artikelbild.jpg"
+        }
+      }
+    ]
+  }
+  

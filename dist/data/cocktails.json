@@ -1,0 +1,217 @@
+{
+      "Cocktails": [
+        {
+          "titel": "The Valentino",
+          "zutaten": [
+            "Campari",
+            "Dry Vermouth",
+            "Orangensaft",
+            "Eiswürfel",
+            "Orangenzeste"
+          ],
+          "steps": [
+            "Alle Zutaten in ein Rührglas mit Eis geben.",
+            "Gut umrühren.",
+            "In ein gekühltes Glas abseihen.",
+            "Mit Orangenzeste garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.liquor.com/recipes/the-valentino/",
+            "picture": "https://www.liquor.com/thmb/3y1gaQOQRz0sN-6C0FDtix3r79I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/valentino-720x720-primary-c8acf496904b43c69f73e7cd828d681a.jpg"
+          }
+        },
+        {
+          "titel": "Italian Gipsy",
+          "zutaten": [
+            "Campari",
+            "Tonic Water",
+            "Limette",
+            "Eiswürfel"
+          ],
+          "steps": [
+            "Eis in ein Glas füllen.",
+            "Campari und Tonic Water dazugeben.",
+            "Mit Limettenscheibe garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Longdrinkglas",
+            "link": "https://www.schweppes.de/mixen/cocktails/italian-gipsy",
+            "picture": "https://www.schweppes.de/cocktail-sync/9568/image-thumb__9568__cocktail-image/italian-gipsy.webp"
+          }
+        },
+        {
+          "titel": "Americano",
+          "zutaten": [
+            "Campari",
+            "Roter Wermut",
+            "Sodawasser",
+            "Eiswürfel",
+            "Orangenscheibe"
+          ],
+          "steps": [
+            "Campari und Wermut in ein Glas mit Eis geben.",
+            "Mit Sodawasser auffüllen.",
+            "Mit einer Orangenscheibe garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Tumbler",
+            "link": "https://spirituosenworld.de/cocktails/americano",
+            "picture": "https://spirituosenworld.de/images/cocktails/americano-cocktail.jpg.pagespeed.ce.Fo4N-QPmlU.jpg"
+          }
+        },
+        {
+          "titel": "Melon Ball",
+          "zutaten": [
+            "Wodka",
+            "Melonenlikör",
+            "Orangensaft",
+            "Eiswürfel",
+            "Melonenkugel"
+          ],
+          "steps": [
+            "Alle Zutaten in ein Shaker geben.",
+            "Kräftig schütteln.",
+            "In ein Glas mit Eis abseihen.",
+            "Mit Melonenkugel dekorieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Longdrinkglas",
+            "link": "https://dishesdelish.com/melon-ball/",
+            "picture": "https://dishesdelish.com/wp-content/uploads/2021/01/Melon-Ball-Cocktail-14.jpg.webp"
+          }
+        },
+        {
+          "titel": "African Lion",
+          "zutaten": [
+            "Weißer Rum",
+            "Maracujasaft",
+            "Orangensaft",
+            "Grenadine",
+            "Eis"
+          ],
+          "steps": [
+            "Eis ins Glas geben.",
+            "Rum und Säfte einfüllen.",
+            "Grenadine vorsichtig hineingießen.",
+            "Nicht umrühren für Farbverlauf."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.cocktailscout.de/rezepte/african-lion",
+            "picture": "https://www.cocktailscout.de/user_img/recipe/1591/medium/f532d8d716b881fe4c73ecb6c9743fb4.jpg"
+          }
+        },
+        {
+          "titel": "Banana Boat",
+          "zutaten": [
+            "Bananenlikör",
+            "Rum",
+            "Sahne",
+            "Ananassaft",
+            "Eiswürfel"
+          ],
+          "steps": [
+            "Alle Zutaten mit Eis shaken.",
+            "In ein gekühltes Glas abseihen.",
+            "Mit Ananasscheibe garnieren."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Hurricane-Glas",
+            "link": "https://www.homebarmenu.com/recipe/banana_boat",
+            "picture": "https://ik.imagekit.io/vjt1kualr/drinks/banana_boat/main-image.jpg"
+          }
+        },
+        {
+          "titel": "Whiskey Sour",
+          "zutaten": [
+            "Whiskey",
+            "Zitronensaft",
+            "Zuckersirup",
+            "Eis",
+            "Cocktailkirsche (optional)"
+          ],
+          "steps": [
+            "Whiskey, Zitronensaft und Sirup shaken.",
+            "In ein Glas mit Eis abseihen.",
+            "Mit Kirsche garnieren, optional."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Tumbler",
+            "link": "https://www.liquor.com/recipes/whiskey-sour/",
+            "picture": "https://www.liquor.com/thmb/jS6tetULiZ09eJDoPlY6wM4Ft1I=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/whiskey-sour-1500x1500-hero-c9df509bb1d141f1a8424051c3d78445.jpg"
+          }
+        },
+        {
+          "titel": "Daiquiri",
+          "zutaten": [
+            "Weißer Rum",
+            "Zitronensaft",
+            "Zuckersirup",
+            "Eis"
+          ],
+          "steps": [
+            "Alle Zutaten im Shaker mit Eis schütteln.",
+            "In gekühltes Glas abseihen."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.gutekueche.at/daiquiri-cocktail-rezept-17921",
+            "picture": "https://www.gutekueche.at/storage/media/recipe/144270/resp/daiquiri___webp_940_705.webp"
+          }
+        },
+        {
+          "titel": "Aperol Sour",
+          "zutaten": [
+            "Aperol",
+            "Zitronensaft",
+            "Zuckersirup",
+            "Eiweiß",
+            "Eis"
+          ],
+          "steps": [
+            "Alle Zutaten ohne Eis „dry shaken“. ",
+            "Dann mit Eis kräftig shaken.",
+            "In Glas abseihen."
+          ],
+          "informations": {
+            "alkoholisch": true,
+            "glas": "Cocktailglas",
+            "link": "https://www.einfachkochen.de/rezepte/aperol-sour-original-rezept",
+            "picture": "https://www.einfachkochen.de/sites/einfachkochen.de/files/styles/700_530/public/2020-08/aperol_sour_12456.jpg?h=6d1c2d1b&itok=WtAgqgys"
+          }
+        },     
+        {
+          "titel": "Schönheitscocktail mit Gurke",
+          "zutaten": [
+            "Gurkensaft",
+            "Mineralwasser",
+            "Limettensaft",
+            "Minze",
+            "Eiswürfel"
+          ],
+          "steps": [
+            "Gurkensaft und Limettensaft vermengen.",
+            "In Glas mit Eis geben.",
+            "Mit Mineralwasser auffüllen.",
+            "Mit Minzblättern garnieren."
+          ],
+          "informations": {
+            "alkoholisch": false,
+            "glas": "Highballglas",
+            "link": "https://iccinnamon.com/the-best-cucumber-cocktail-recipe-for-your-guinea-pig/",
+            "picture": "https://cdn-jnijl.nitrocdn.com/xeoLKWyplzMpuIpVYUeSODTwEQgrVoNt/assets/images/optimized/rev-4856fa4/iccinnamon.com/wp-content/uploads/2023/06/22-1.png"
+          }
+        }
+      ]
+    }
+  
+  
