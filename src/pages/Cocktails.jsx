@@ -41,6 +41,7 @@ const Cocktails = () => {
       <h1>Rezepte für Cocktails</h1>
       {recipes.map((recipe, index) => (
         <div key={index} style={{ borderBottom: "1px solid #ccc", marginBottom: "2rem", marginTop: "100px" }}>
+          <img src={recipe.informations.picture} alt="Nice Picture with Cocktail" />
           <h2>{recipe.titel}</h2>
           <p><strong>Zubereitungszeit:</strong> {recipe.informations.zubereitungszeit}</p>
           <p><strong>Portionen:</strong> {recipe.informations.portionen}</p>
@@ -55,7 +56,6 @@ const Cocktails = () => {
             ))}
           </ul>
           <h3>Zubereitung</h3>
-          <img src={recipe.informations.picture} alt="Nice Picture with Cocktail" />
           <ol>
             {recipe.steps.map((step, i) => (
               <li key={i}>{step}</li>

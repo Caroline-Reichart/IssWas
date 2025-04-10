@@ -27,7 +27,8 @@
           "portionen": 2,
           "zubereitungszeit": "30 Minuten",
           "schwierigkeit": "mittel",
-          "link": "https://www.chefkoch.de/rezepte/110771046437101/Cowboy-Kartoffeln.html"
+          "link": "https://www.chefkoch.de/rezepte/110771046437101/Cowboy-Kartoffeln.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/110771046437101/bilder/1524718/crop-642x428/cowboy-kartoffeln.jpg"
         }
       },
       {
@@ -58,7 +59,8 @@
           "portionen": 2,
           "zubereitungszeit": "25 Minuten",
           "schwierigkeit": "einfach",
-          "link": "https://www.chefkoch.de/rezepte/3059251458539904/Vollkornspaghetti-mit-fruehlingshafter-Avocado-Feta-Creme.html"
+          "link": "https://www.chefkoch.de/rezepte/3059251458539904/Vollkornspaghetti-mit-fruehlingshafter-Avocado-Feta-Creme.html",
+          "picture": "https://img.chefkoch-cdn.de/rezepte/3059251458539904/bilder/1112119/crop-642x428/vollkornspaghetti-mit-fruehlingshafter-avocado-feta-creme.jpg"
         }
       }
     ]
